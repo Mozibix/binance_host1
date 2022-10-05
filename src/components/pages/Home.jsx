@@ -42,7 +42,7 @@ export const Home = () => {
           <div className="home_right_side">
             <div className="home_right_side_inner">
               <div className="right_side_img">
-                <img src={img} alt="Image" className="right_side_img" />
+                <img src={img} alt="" className="right_side_img" />
               </div>
             </div>
           </div>
@@ -140,7 +140,7 @@ export const Home = () => {
               className="second_section_right_side"
             >
               <div className="second_section_right_side_inner">
-                <img src={image} alt="image" />
+                <img src={image} alt="" />
               </div>
             </div>
             <button data-aos="zoom-in" className="get_started">

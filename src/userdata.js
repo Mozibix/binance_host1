@@ -1,5 +1,5 @@
 import { AiFillGithub, AiFillInstagram, AiFillYoutube } from "react-icons/ai";
-import { BsFacebook, BsTelegram, BsReddit, BsLinkedin } from "react-icons/bs";
+import { BsTelegram, BsReddit, BsLinkedin } from "react-icons/bs";
 import { SiBinance, SiLitecoin } from "react-icons/si";
 import { FaBitcoin, FaTiktok, FaMonero, FaEthereum } from "react-icons/fa";
 import { RiExchangeFundsFill } from "react-icons/ri";

@@ -3,8 +3,6 @@ import { portfolioData } from "../../userdata";
 import Aos from "aos";
 import "aos/dist/aos.css";
 
-// import { Link } from "react-router-dom";
-
 const Box = () => {
   useEffect(() => {
     Aos.init({ duration: "2000" });
@@ -25,7 +23,7 @@ const FlexBox = (props) => {
         className="flex_box_inner"
       >
         <div data-aos="zoom-in" className="flex_image">
-          <img src={props.img_src} />
+          <img src={props.img_src} alt="" />
         </div>
         <div data-aos="flip-left" className="text_contents">
           <div className="flex_text">

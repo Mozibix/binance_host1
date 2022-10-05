@@ -1,6 +1,5 @@
 import React from "react";
 import { logos } from "../../userdata";
-import Aos from "aos";
 import "aos/dist/aos.css";
 
 const Community = () => {
